@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    align-items: center;
+    font-size: 28px;
+    color: red;
+    height: auto;
+    padding: 2px;
+    background-color: antiquewhite;
+    
+}
+ul{
+    display: flex;
+    gap: 23px;
+    list-style-type: none;
+    justify-content: right;
+   
+    
+}
+p{
+    height: 50vh;
+    width:100%;
+    background-color: aquamarine;
+}
